@@ -1,6 +1,5 @@
 libraries {
   merge = true
-  gradle
   snyk
 }
 
